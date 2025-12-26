@@ -1,0 +1,101 @@
+ProjetID,NomProjet,ClientID,ChefProjetID,StatutProjet,DateDebut,DateFinPrevue,DateFinReelle,BudgetEstime,BudgetReel,TechnologiePrincipale
+1,Projet 1 - Le droit de concrétiser vos projets avant-tout,37,14,Terminé,2024-01-03,2024-12-28,2024-12-25,121673.23,151070.51045067876,Java/Spring
+2,Projet 2 - L'art de louer avant-tout,25,20,En cours,2025-10-23,2026-07-20,,59559.44,,Node.js/Express
+3,Projet 3 - La possibilité d'atteindre vos buts à la pointe,37,5,En cours,2025-02-01,2025-05-02,,49519.69,,Python/Django
+4,Projet 4 - Le plaisir de concrétiser vos projets autrement,49,17,Terminé,2025-10-18,2025-11-17,2026-01-10,103343.87,85943.43386379008,Node.js/Express
+5,Projet 5 - Le plaisir de concrétiser vos projets autrement,16,19,En cours,2024-07-20,2025-07-15,,81576.5,,Java/Spring
+6,Projet 6 - L'avantage d'innover plus rapidement,29,11,Annulé,2025-07-05,2026-05-31,2026-02-14,62785.96,75627.69759983607,PHP/Laravel
+7,Projet 7 - La liberté d'avancer en toute tranquilité,43,13,En attente,2025-12-08,2026-04-07,,79015.39,,Angular
+8,Projet 8 - L'assurance d'évoluer à sa source,14,7,Annulé,2025-04-19,2025-08-17,2025-05-09,132451.21,161995.22822002007,Angular
+9,Projet 9 - L'avantage d'innover autrement,20,17,En attente,2025-06-05,2025-07-05,,134274.36,,Java/Spring
+10,Projet 10 - Le pouvoir d'atteindre vos buts en toute tranquilité,46,7,En attente,2024-05-16,2024-09-13,,115774.13,,Node.js/Express
+11,Projet 11 - Le pouvoir d'avancer à la pointe,33,10,En attente,2024-07-10,2025-06-05,,33166.05,,Angular
+12,Projet 12 - La liberté de changer en toute tranquilité,49,2,Annulé,2025-08-28,2026-02-24,2025-12-23,22171.63,28020.896437314736,Python/Django
+13,Projet 13 - Le confort de louer autrement,37,3,Terminé,2025-01-12,2025-08-10,2025-09-27,131723.83,115260.66294731616,Java/Spring
+14,Projet 14 - La possibilité de rouler naturellement,2,13,En attente,2025-01-14,2025-02-13,,48988.74,,Angular
+15,Projet 15 - L'assurance de rouler plus rapidement,3,6,Terminé,2024-07-27,2025-03-24,2025-03-08,138912.43,130621.32888935525,PHP/Laravel
+16,Projet 16 - Le plaisir d'évoluer à la pointe,48,1,Terminé,2025-04-18,2025-09-15,2025-08-31,124774.9,130264.0463577806,Node.js/Express
+17,Projet 17 - Le droit de louer de manière efficace,9,2,Annulé,2024-04-18,2025-03-14,2024-08-24,68682.91,82537.8809523224,React
+18,Projet 18 - Le plaisir de changer sans soucis,49,19,Terminé,2025-03-01,2025-10-27,2025-11-06,67763.21,80495.9143180031,Python/Django
+19,Projet 19 - Le droit d'atteindre vos buts à l'état pur,33,6,Terminé,2024-12-26,2025-05-25,2025-05-17,148562.96,126766.6298673591,PHP/Laravel
+20,Projet 20 - Le pouvoir de louer naturellement,20,14,En attente,2024-06-13,2025-06-08,,67488.83,,Vue.js
+21,Projet 21 - L'avantage d'innover avant-tout,15,1,Terminé,2024-11-23,2025-11-18,2025-12-22,81235.3,99147.09424415868,Node.js/Express
+22,Projet 22 - La possibilité d'évoluer en toute tranquilité,48,9,En cours,2024-11-30,2025-10-26,,77374.63,,Java/Spring
+23,Projet 23 - Le pouvoir de louer à la pointe,28,18,Annulé,2025-08-18,2026-04-15,2026-01-11,13189.3,12994.886917944496,PHP/Laravel
+24,Projet 24 - Le pouvoir de concrétiser vos projets plus facilement,37,1,En cours,2024-02-07,2024-03-08,,144418.14,,Node.js/Express
+25,Projet 25 - Le confort de concrétiser vos projets à l'état pur,12,7,En cours,2024-12-27,2025-04-26,,21112.09,,React
+26,Projet 26 - La possibilité de changer à sa source,49,4,Terminé,2024-01-17,2024-03-17,2024-04-16,97881.98,118737.82517559285,PHP/Laravel
+27,Projet 27 - Le pouvoir d'innover en toute tranquilité,1,18,En attente,2024-04-02,2024-12-28,,54742.45,,React
+28,Projet 28 - Le confort d'innover naturellement,49,19,En attente,2024-09-23,2025-04-21,,24687.05,,Java/Spring
+29,Projet 29 - Le plaisir de rouler de manière sûre,7,16,Terminé,2025-06-15,2026-06-10,2026-07-28,99812.37,107562.31420534822,Java/Spring
+30,Projet 30 - Le pouvoir d'avancer de manière sûre,22,5,Annulé,2023-12-19,2024-08-15,2024-07-18,6796.92,7655.407471528891,Java/Spring
+31,Projet 31 - La possibilité de louer à sa source,18,12,Annulé,2025-10-11,2026-02-08,2026-01-17,89100.05,77322.70277410107,Angular
+32,Projet 32 - Le pouvoir d'atteindre vos buts en toute tranquilité,46,7,Terminé,2024-02-29,2024-09-26,2024-09-19,7883.07,8021.2407603827805,Python/Django
+33,Projet 33 - La liberté d'évoluer naturellement,9,3,En cours,2025-04-03,2026-03-29,,129481.31,,Python/Django
+34,Projet 34 - L'art de louer de manière efficace,26,13,Terminé,2025-07-17,2026-02-12,2026-04-03,61445.65,50735.94060334499,Java/Spring
+35,Projet 35 - L'assurance de louer à l'état pur,28,19,En attente,2025-03-25,2025-08-22,,55757.31,,PHP/Laravel
+36,Projet 36 - La liberté de rouler de manière efficace,33,19,Terminé,2024-02-02,2024-10-29,2024-10-05,73164.63,66657.11270229069,Node.js/Express
+37,Projet 37 - Le droit d'atteindre vos buts avant-tout,30,6,En attente,2025-09-16,2025-12-15,,55150.7,,PHP/Laravel
+38,Projet 38 - L'avantage de concrétiser vos projets à l'état pur,19,5,En cours,2024-02-25,2024-03-26,,131121.23,,Python/Django
+39,Projet 39 - La liberté d'innover plus rapidement,44,3,Annulé,2024-05-14,2024-12-10,2024-11-30,35975.95,41890.67803338803,Java/Spring
+40,Projet 40 - Le droit d'innover de manière sûre,42,13,Terminé,2024-02-13,2024-04-13,2024-04-01,134299.95,142414.94814226773,Vue.js
+41,Projet 41 - L'avantage d'atteindre vos buts avant-tout,23,17,En cours,2025-03-25,2025-04-24,,135365.41,,PHP/Laravel
+42,Projet 42 - L'avantage d'évoluer à l'état pur,40,20,Annulé,2025-09-17,2025-10-17,2025-09-27,35089.4,44737.94995575398,Node.js/Express
+43,Projet 43 - La possibilité de changer de manière efficace,33,4,En cours,2025-07-03,2026-04-29,,121401.94,,Vue.js
+44,Projet 44 - Le droit de concrétiser vos projets plus facilement,22,4,En attente,2025-07-15,2026-05-11,,43208.52,,React
+45,Projet 45 - La liberté de louer à l'état pur,8,13,En cours,2025-11-02,2026-07-30,,45746.12,,Node.js/Express
+46,Projet 46 - L'avantage de concrétiser vos projets autrement,38,11,En cours,2025-10-20,2025-11-19,,122580.58,,Java/Spring
+47,Projet 47 - La liberté de concrétiser vos projets de manière efficace,28,8,En cours,2024-02-19,2025-01-14,,148047.9,,Java/Spring
+48,Projet 48 - L'art d'évoluer à l'état pur,3,7,En attente,2024-10-24,2025-01-22,,54742.29,,Python/Django
+49,Projet 49 - L'art d'avancer naturellement,28,17,Annulé,2024-10-28,2025-07-25,2025-05-16,13075.66,15435.3745205646,PHP/Laravel
+50,Projet 50 - L'avantage de concrétiser vos projets à sa source,32,15,En attente,2025-06-11,2026-04-07,,78777.13,,Vue.js
+51,Projet 51 - L'art de louer sans soucis,10,7,Annulé,2025-08-08,2026-01-05,2025-12-12,115124.42,109269.2942443727,Vue.js
+52,Projet 52 - L'assurance de louer à l'état pur,29,18,Terminé,2024-09-21,2025-06-18,2025-07-29,98495.78,125438.46582963255,Vue.js
+53,Projet 53 - L'avantage d'innover à la pointe,6,1,Annulé,2024-12-01,2025-09-27,2025-05-28,52447.5,64012.74827793685,Node.js/Express
+54,Projet 54 - Le plaisir d'évoluer plus rapidement,40,3,Annulé,2024-02-08,2025-01-03,2024-05-25,69449.03,85323.48688416643,Angular
+55,Projet 55 - L'art de concrétiser vos projets à sa source,32,19,En attente,2025-06-28,2025-11-25,,64430.88,,React
+56,Projet 56 - Le pouvoir d'innover à sa source,27,17,En cours,2025-01-03,2025-03-04,,15111.86,,Angular
+57,Projet 57 - La possibilité de rouler en toute tranquilité,3,18,Terminé,2024-05-29,2025-02-23,2025-01-28,115817.74,109107.7102723862,PHP/Laravel
+58,Projet 58 - L'avantage d'innover à sa source,38,3,Annulé,2024-08-28,2025-08-23,2024-10-25,64396.06,74034.09985671382,Vue.js
+59,Projet 59 - L'avantage de concrétiser vos projets de manière efficace,6,20,Annulé,2024-09-20,2025-01-18,2025-01-05,115747.64,100792.73781111273,React
+60,Projet 60 - Le plaisir d'évoluer sans soucis,13,17,Annulé,2023-12-18,2024-07-15,2024-01-30,103542.59,123752.5963779977,Angular
+61,Projet 61 - La liberté de changer sans soucis,32,16,Annulé,2024-10-30,2024-11-29,2024-11-16,59784.54,49204.44219957304,Java/Spring
+62,Projet 62 - L'art de rouler plus rapidement,7,2,En attente,2024-07-06,2025-01-02,,6530.43,,Java/Spring
+63,Projet 63 - Le droit d'atteindre vos buts sans soucis,22,14,En cours,2025-01-15,2026-01-10,,110798.72,,Angular
+64,Projet 64 - L'assurance d'évoluer plus facilement,28,8,Terminé,2024-08-12,2025-07-08,2025-06-20,119702.28,110263.92966672646,React
+65,Projet 65 - Le confort de rouler naturellement,2,7,En cours,2025-09-03,2026-01-01,,33903.79,,Vue.js
+66,Projet 66 - L'art d'innover à sa source,5,14,En attente,2024-03-03,2024-05-02,,129329.52,,Java/Spring
+67,Projet 67 - L'assurance d'atteindre vos buts à l'état pur,7,13,En cours,2025-04-10,2026-01-05,,76342.79,,React
+68,Projet 68 - Le droit de changer de manière efficace,37,1,En cours,2024-07-13,2024-08-12,,84862.79,,React
+69,Projet 69 - La liberté d'innover sans soucis,16,7,En cours,2024-01-19,2024-03-19,,142341.57,,Angular
+70,Projet 70 - Le droit d'évoluer à la pointe,9,1,En attente,2024-11-05,2025-04-04,,116955.93,,PHP/Laravel
+71,Projet 71 - Le plaisir d'atteindre vos buts avant-tout,29,18,Annulé,2024-02-14,2024-08-12,2024-08-10,46306.78,54141.96085382631,PHP/Laravel
+72,Projet 72 - Le plaisir d'évoluer plus rapidement,36,20,Terminé,2024-04-13,2024-11-09,2024-12-19,54121.61,57612.67179117316,PHP/Laravel
+73,Projet 73 - L'avantage de concrétiser vos projets plus facilement,29,20,En attente,2025-11-30,2026-11-25,,43405.94,,Node.js/Express
+74,Projet 74 - Le confort de louer autrement,42,4,En cours,2023-12-19,2024-09-14,,122125.6,,Node.js/Express
+75,Projet 75 - L'art de changer de manière sûre,21,1,En attente,2025-02-02,2025-07-02,,92795.45,,Node.js/Express
+76,Projet 76 - L'assurance d'atteindre vos buts plus facilement,27,6,En cours,2025-01-12,2025-11-08,,53760.37,,Python/Django
+77,Projet 77 - La possibilité de louer sans soucis,41,8,En cours,2023-12-23,2024-10-18,,32925.97,,Angular
+78,Projet 78 - La liberté de louer de manière efficace,37,15,Annulé,2024-03-20,2024-11-15,2024-07-11,78451.25,93257.41287946951,Angular
+79,Projet 79 - Le droit de changer à la pointe,19,17,En attente,2024-02-25,2024-09-22,,126882.7,,Java/Spring
+80,Projet 80 - La possibilité d'innover à la pointe,33,2,En attente,2024-03-13,2024-10-09,,19844.7,,Java/Spring
+81,Projet 81 - La liberté d'innover naturellement,15,11,En attente,2025-04-05,2025-09-02,,121913.94,,PHP/Laravel
+82,Projet 82 - La liberté d'innover plus facilement,41,6,En attente,2024-10-09,2024-12-08,,114765.75,,Python/Django
+83,Projet 83 - La possibilité d'atteindre vos buts de manière efficace,19,10,En attente,2025-05-18,2025-08-16,,122552.38,,PHP/Laravel
+84,Projet 84 - Le confort d'innover à sa source,39,10,En attente,2024-10-21,2025-03-20,,142061.36,,Vue.js
+85,Projet 85 - Le plaisir de louer plus facilement,39,1,En attente,2024-12-13,2025-03-13,,128348.82,,Node.js/Express
+86,Projet 86 - Le droit de louer naturellement,38,3,En attente,2024-09-04,2025-04-02,,62564.87,,PHP/Laravel
+87,Projet 87 - L'assurance d'atteindre vos buts naturellement,12,10,En attente,2024-05-07,2024-11-03,,149042.76,,PHP/Laravel
+88,Projet 88 - Le confort d'avancer plus rapidement,38,18,En cours,2024-07-28,2024-09-26,,142773.4,,Node.js/Express
+89,Projet 89 - Le pouvoir de louer sans soucis,46,20,Terminé,2024-10-14,2025-06-11,2025-05-16,148885.72,146213.69991065253,Java/Spring
+90,Projet 90 - L'assurance de concrétiser vos projets naturellement,49,1,En cours,2025-04-26,2025-07-25,,58128.84,,Vue.js
+91,Projet 91 - Le plaisir de concrétiser vos projets naturellement,42,8,Terminé,2025-04-08,2025-10-05,2025-11-06,26286.35,21850.16897996037,PHP/Laravel
+92,Projet 92 - L'assurance d'innover de manière efficace,33,4,Terminé,2024-07-19,2025-05-15,2025-04-28,147532.04,128213.2429897476,Node.js/Express
+93,Projet 93 - Le plaisir d'avancer autrement,1,14,En cours,2024-07-22,2025-06-17,,93889.52,,Java/Spring
+94,Projet 94 - L'assurance d'évoluer à l'état pur,45,19,En attente,2025-05-25,2025-12-21,,101142.35,,Node.js/Express
+95,Projet 95 - Le pouvoir d'avancer naturellement,35,13,Terminé,2023-12-16,2024-03-15,2024-05-02,18884.78,16582.462999691943,PHP/Laravel
+96,Projet 96 - Le droit de concrétiser vos projets naturellement,1,13,Terminé,2025-04-03,2025-07-02,2025-06-23,21320.94,27385.19452099326,Vue.js
+97,Projet 97 - L'avantage de changer plus rapidement,8,7,Annulé,2024-12-16,2025-10-12,2025-05-16,129670.17,109054.5969500756,Java/Spring
+98,Projet 98 - L'art de rouler naturellement,49,2,En attente,2025-06-10,2026-04-06,,81958.49,,Java/Spring
+99,Projet 99 - Le plaisir d'innover avant-tout,42,9,En cours,2024-10-09,2024-11-08,,16425.58,,PHP/Laravel
+100,Projet 100 - L'art de concrétiser vos projets de manière sûre,42,10,Terminé,2024-09-10,2025-05-08,2025-05-07,117984.97,125002.87048744547,Node.js/Express

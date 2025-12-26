@@ -1,0 +1,21 @@
+DevID,NomDev,PrenomDev,Specialite,Niveau,DateEmbauche,TauxHoraire,Equipe,Statut
+1,Cordier,Mathilde,QA,Confirmé,2018-04-25,82.27,Alpha,Actif
+2,Poulain,Margot,Backend,Senior,2023-07-21,52.43,Alpha,Actif
+3,Lenoir,Grégoire,Backend,Confirmé,2022-06-21,69.53,Alpha,Actif
+4,Ramos,Emmanuel,DevOps,Confirmé,2020-02-10,81.66,Beta,Actif
+5,Duhamel,Hugues,Fullstack,Senior,2022-01-30,66.68,Beta,Actif
+6,Dumont,Madeleine,Frontend,Junior,2016-12-12,82.46,Alpha,Actif
+7,Maillot,Valentine,Frontend,Senior,2019-10-27,47.46,Alpha,Actif
+8,Dupuy,Nicolas,DevOps,Junior,2018-03-18,40.19,Beta,Actif
+9,Robert,Étienne,Backend,Senior,2019-09-29,99.04,Gamma,Actif
+10,Gros,Adèle,QA,Junior,2017-10-28,56.77,Alpha,Actif
+11,Dupré,Virginie,Fullstack,Senior,2022-01-26,61.95,Gamma,Actif
+12,Maury,Hugues,Fullstack,Confirmé,2024-04-29,56.46,Alpha,Actif
+13,Lesage,Eugène,Fullstack,Junior,2025-04-24,65.12,Beta,Actif
+14,Duhamel,Catherine,QA,Confirmé,2016-08-16,104.09,Gamma,Actif
+15,Charrier,Valentine,DevOps,Junior,2017-09-30,94.13,Beta,Actif
+16,De Oliveira,Anne,Backend,Senior,2023-05-06,107.03,Beta,Actif
+17,Hoarau,Emmanuel,Fullstack,Junior,2024-03-31,48.3,Alpha,Actif
+18,Leroy,Susan,DevOps,Confirmé,2023-04-25,69.64,Alpha,Actif
+19,Goncalves,Nicolas,QA,Confirmé,2017-09-27,53.48,Beta,Actif
+20,Fernandes,Lorraine,Frontend,Junior,2025-01-21,45.84,Beta,Actif

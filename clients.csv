@@ -1,0 +1,51 @@
+ClientID,NomClient,SecteurActivite,Ville,Pays,DatePremierContrat,StatutClient,CA_Cumule
+1,Bazin,Retail,Fleury,Tunisie,2023-11-25,Prospect,191540.76
+2,Martins Noël SARL,Retail,Blot,Namibie,2022-07-28,Actif,262293.13
+3,Godard,Technologie,Lévêque,Andorre,2025-09-12,Prospect,362463.4
+4,Chevallier,Technologie,Duvalboeuf,Vatican (Etat du),2023-02-08,Actif,334031.15
+5,Brun,Technologie,Sainte JacquesBourg,Géorgie,2021-11-14,Actif,120699.66
+6,Robin,Éducation,Collin,Suède,2022-09-05,Actif,198788.54
+7,Antoine,Gouvernement,LaporteVille,Mali,2021-03-31,Actif,37632.84
+8,Normand Perrin S.A.R.L.,Éducation,Bailly-sur-Alexandre,Afrique du sud,2023-01-19,Prospect,480710.74
+9,Aubry,Technologie,Chevalier,Croatie,2022-10-12,Prospect,243739.24
+10,Maillot Martineau SARL,Retail,Sainte ArnaudeBourg,Pitcairn (Îles),2022-12-02,Prospect,413725.66
+11,Boulanger Barbier S.A.R.L.,Gouvernement,Lucas,Guinée,2025-01-27,Ancien,471708.24
+12,Gérard Jacquot S.A.S.,Gouvernement,Da Costa,Kirghizistan,2024-01-22,Actif,337479.53
+13,Noël,Santé,Charles-sur-Menard,Liechtenstein,2024-08-04,Prospect,266102.36
+14,Chevalier,Gouvernement,Michel,Suède,2022-11-18,Ancien,139737.5
+15,Ferrand,Technologie,Garnier,Afghanistan,2024-04-14,Ancien,149922.19
+16,Gérard et Fils,Finance,MaillardBourg,Colombie,2022-02-13,Ancien,195042.99
+17,Pichon,Manufacture,Briand-sur-Marin,Wallis et Futuna (Îles),2025-05-30,Prospect,184698.8
+18,Vasseur Lejeune S.A.S.,Éducation,Renaud,République Dominicaine,2023-05-03,Actif,378435.88
+19,Bruneau,Santé,Parent,Cook (Îles),2024-01-25,Prospect,253291.14
+20,Jean Lebon S.A.R.L.,Gouvernement,Saint Valérie,Laos,2021-06-03,Ancien,395238.46
+21,Hardy,Retail,Mathieu,Soudan,2021-07-19,Prospect,29696.83
+22,Gillet,Santé,Sainte Arnaude,Malaisie,2025-03-03,Actif,147485.37
+23,Grondin,Éducation,Blondel-sur-Munoz,République centrafricaine,2023-01-25,Prospect,484184.17
+24,Couturier,Finance,Picard,Roumanie,2024-06-29,Ancien,139286.76
+25,Rivière,Retail,Mary,Svalbard et Jan Mayen (Îles),2025-05-01,Prospect,339312.75
+26,Ledoux S.A.R.L.,Retail,Chevallier,Luxembourg,2025-08-26,Prospect,308052.47
+27,Vincent Dupont S.A.,Éducation,Besnard-la-Forêt,Yemen,2022-03-01,Ancien,230155.47
+28,Cousin,Santé,Saint Gabrielnec,Corée du Nord,2024-09-27,Ancien,249579.56
+29,Buisson Toussaint S.A.S.,Gouvernement,Deschampsnec,Chili,2021-10-26,Ancien,68336.61
+30,Paris,Manufacture,Besnard-les-Bains,Égypte,2025-02-24,Prospect,19085.07
+31,Jean SA,Gouvernement,Bonneau,Mayotte,2024-02-21,Prospect,275597.68
+32,Robin,Finance,Guillaume,Cocos (Îles),2022-09-25,Ancien,176996.32
+33,Lejeune et Fils,Santé,Toussaint-sur-Lévy,Mozambique,2025-01-23,Ancien,60858.79
+34,Fernandez Mathieu S.A.,Retail,Chartier,Martinique,2023-03-13,Prospect,85866.17
+35,Fischer,Technologie,Mary,Japon,2021-12-29,Ancien,48180.81
+36,Guillet,Manufacture,Lecoq-la-Forêt,Cameroun,2022-05-09,Actif,188010.44
+37,Jean S.A.R.L.,Retail,Georgesnec,Bolivie,2025-11-01,Ancien,155655.01
+38,Lebon,Technologie,Pagesboeuf,Maldives (Îles),2024-12-28,Actif,265419.67
+39,Picard Roussel SARL,Technologie,Carre-la-Forêt,Angola,2025-01-23,Ancien,104365.99
+40,De Oliveira,Santé,Rolland-la-Forêt,Roumanie,2021-09-19,Prospect,230655.0
+41,Hubert,Finance,Sainte Marianne-les-Bains,Seychelles,2024-02-22,Ancien,39986.88
+42,Pineau Buisson S.A.,Finance,Laporte,Albanie,2023-09-26,Prospect,219530.87
+43,Mary,Retail,Langlois,Géorgie,2022-05-27,Ancien,135937.24
+44,Guichard S.A.,Technologie,Martins-sur-Texier,Cuba,2025-07-22,Actif,157505.69
+45,Chauveau,Santé,Perrier,Bulgarie,2025-10-01,Ancien,361892.37
+46,Pineau,Retail,Fleurydan,Bouvet (Îles),2024-01-04,Prospect,191532.82
+47,Seguin,Éducation,Jacquet,Namibie,2022-05-20,Prospect,112803.81
+48,Guilbert Poirier SARL,Technologie,Thomasdan,Qatar,2023-08-28,Ancien,51151.01
+49,Brunel,Éducation,Philippe,Bermudes (Les),2021-10-31,Actif,302257.82
+50,Marchal,Santé,Berthelot,Myanmar,2025-09-29,Ancien,476465.31
